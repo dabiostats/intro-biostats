@@ -4,9 +4,9 @@ project:
 
 
 book:
-  title: "process-models-workshop"
-  author: "Renata Diaz, Isaac Overcast, Andy Rominger, Connor French, Jacob Idec, and Rilquer Mascarenhas"
-  date: "5/2/2023"
+  title: "A first course in biostatistics"
+  author: "coming soon"
+  date: "10/5/2023"
   chapters:
     - index.qmd
     - software_setup.qmd
